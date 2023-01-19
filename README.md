@@ -43,9 +43,6 @@ This repository holds supporting materials for the NYU-ITP graduate course [Home
 
 ### Session 14 - Final Presentations, May 8
 
-## Land Acknowledgement
-
-This classroom, New York University and Brooklyn, NY is situated on the continuously inhabited land of the Lenni Lenape people. I am making a donation to the [American Indian Community House](https://aich.org/) for the use of this space.
 
 ## Evaluation
 * Please read [ITP's policy on pass/fail](http://help.itp.nyu.edu/academic-policies/pass-fail)
@@ -60,6 +57,10 @@ This classroom, New York University and Brooklyn, NY is situated on the continuo
 
 ## Related Reading and Watching
 
+
+## Land Acknowledgement
+
+This classroom, New York University and Brooklyn, NY is situated on the continuously inhabited land of the Lenni Lenape people. I am making a donation to the [American Indian Community House](https://aich.org/) for the use of this space.
 
 ## Statement on Accessibility
 
