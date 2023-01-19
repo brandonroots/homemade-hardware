@@ -2,7 +2,6 @@
 
 This repository holds supporting materials for the NYU-ITP graduate course [Homemade Hardware](http://www.homemadehardware.com)
 
-Can we capture the unpredictable evolutionary and emergent properties of nature in software? Can understanding the mathematical principles behind our physical world world help us to create digital worlds? This class focuses on the programming strategies and techniques behind computer simulations of natural systems. We explore topics ranging from basic mathematics and physics concepts to more advanced simulations of complex systems. Subjects covered include physics simulation, trigonometry, self-organization, genetic algorithms, and neural networks. Examples are demonstrated in JavaScript using [p5.js](http://p5js.org).
 
 ## Info
 - Brandon Roots, Mondays, 9:30am - 12:00pm
