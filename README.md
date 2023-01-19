@@ -56,21 +56,10 @@ This classroom, New York University and Brooklyn, NY is situated on the continuo
   * Final Project: 40%
 
 ## Resources
-* [Course videos](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=6) -- As discussed in [the introduction](week01-intro), these videos date back to 2012. Stay tuned for updates about newer videos as the semester progresses.
-* [Nature of Code Kadenze Course](https://www.kadenze.com/courses/the-nature-of-code/info)
-* [Nature of Code Book](http://natureofcode.com/book/)
-* [p5.js code examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
-* [Processing (Java) code examples](https://github.com/shiffman/The-Nature-of-Code-Examples)
-* [Other ports](https://github.com/shiffman/The-Nature-of-Code-Examples/blob/master/README.md)
-* [Further Reading](http://natureofcode.com/book/further-reading/)
-* Some assignments and materials based on Mimi Yin's [Nature of Code course](https://github.com/mimiyin/Nature-of-Code-S-16/).
+
 
 ## Related Reading and Watching
-* [Coding Math Video Series](http://www.youtube.com/user/codingmath)
-* [Generative Design with Processing](http://www.amazon.com/gp/product/1616890770/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1616890770&linkCode=as2&tag=natureofcode-20)
-* [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1435457331/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1435457331&linkCode=as2&tag=learniproces-20)
-* [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20)
-* [Form and Code](http://formandcode.com/)
+
 
 ## Statement of Academic Integrity
 
@@ -78,18 +67,6 @@ Plagiarism is presenting someone else’s work as though it were your own. More 
 Statement of Principle
 
 The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members. It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice. Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards.  For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at: http://students.tisch.nyu.edu/page/home.html
-
-## Use of Free and Open Source Code from Examples
-
-The following is adapted by permission [from Golan Levin’s Interactivity and Computation Course (Fall 2018)](http://cmuems.com/2018/60212f/syllabus/academic-integrity/) at Carnegie Mellon University.
-
-You must cite the source of any code you use. Please note the following expectations and guidelines:
-
-**Check the License.** When using others' code, pay attention to the license under which it has been released, and be certain to fulfill the terms and requirements of those licenses. Descriptions of common licenses, and their requirements, can be found at choosealicense.com. Some licenses may require permission. If you are confused or aren’t sure how to credit code, ask one of the course instructors and make your best good faith effort. Not properly citing code sources is grounds for a 0 on an assignment.
-
-**Use Libraries.** The use of general, repurposable libraries is strongly encouraged. The people who developed and contributed these components to the community worked hard, often for no pay; acknowledge them by citing their name and linking to their repository.
-
-**Be Careful.** It sometimes happens that an artist places the entire source code for their sketch or artwork online, as a resource from which others can learn. Assignments given in new-media arts courses are often similar; you may also discover the work of a student in some other class or school, who has posted code for a project which responds to a similar assignment. You should probably avoid this code. At the very least, you should be careful about approaching such code for possible re-use. If it is necessary to do so, it is best to extract components that solve a specific technical problem, rather than those parts which operate to create a poetic experience. Your challenge, if and/or when you work with others' code, is to make it your own. It should be clear that downloading an artwork from someone's GitHub and simply changing the colors would be disgracefully lazy. And doing so without proper citation would be outright plagiarism.
 
 ## Statement on Accessibility
 
