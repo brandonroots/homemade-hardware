@@ -31,13 +31,13 @@ This repository holds supporting materials for the NYU-ITP graduate course [Home
 
 ### Session 8 - [Presentation: Prototype Builds (3 minutes)](week08-prototype-builds), Mar 27
 
-### Session 9 - [Lecture: Bantam 2](week08-bantam-2), April 3
+### Session 9 - [Lecture: Bantam 2](week09-bantam-2), April 3
 
-### Session 10 - [Presentations: Alpha Builds (8 minutes)](week09-alpha-builds), April 10
+### Session 10 - [Presentations: Alpha Builds (8 minutes)](week10-alpha-builds), April 10
 
-### Session 11 - [Lecture: Eagle Part Design](week10-eagle-part-design), April 17
+### Session 11 - [Lecture: Eagle Part Design](week11-eagle-part-design), April 17
 
-### Session 12 - [Presentations: Beta Builds (8 minutes)](week11-beta-builds), April 24
+### Session 12 - [Presentations: Beta Builds (8 minutes)](week12-beta-builds), April 24
 
 ### Session 13 - In-Class Work Session, May 1
 
