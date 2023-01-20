@@ -39,7 +39,7 @@ For example, phrases chosen for past classes were:
 * Microcontrol Me!
 * I Dislike Pigeon
 * Error Compiling!
-* 
+ 
 We will vote in-class on the final phrase, before you start designing your circuits in Eagle.
 
 ## Project Requirements
