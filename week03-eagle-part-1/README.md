@@ -14,7 +14,7 @@ Following along with the [Eagle Board Design - 1 guide](https://homemadehardware
 * Finish the Eagle design of your [Marquee letter](../week02-programming-attiny85/MARQUEE.md) (TBD):
 
 * Export a PDF of your design, and post to your blog.
-* Order all materials required for milling, from the [Things/Materials](https://homemadehardware.com/things)page. These include:
+* Order all materials required for milling, from the [Things/Materials](https://homemadehardware.com/things) page. These include:
   * Endmill and engraving bits (I recommend getting x2 of each type)
   * Double-sided tape (the "permanent" type)
   * Copper boards (ITP does stock these but I STRONGLY recommend getting some of your own and/or splitting with someone
