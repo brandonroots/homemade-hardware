@@ -27,7 +27,6 @@ Once our PCBs are ready, we will assemble them together to spell out our phrase.
 
 ![image of a circuit board diagram in shape of letter "H"](https://homemadehardware.com/img/marquee-drawing.jpg)
 
-!
 
 ## Pick a Phrase
 
