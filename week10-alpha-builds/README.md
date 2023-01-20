@@ -1,5 +1,5 @@
 # Class 10
-APRIL 11
+APRIL 10
 
 ## Presentations: Alpha Builds (8 minutes)
 
