@@ -1,5 +1,5 @@
 # Class 5
-FEBRUARY 28
+FEBRUARY 27
 
 ## Assemble the Marquee Sign
 If you did not give me your PCB during class, please **sign up for office hours** this week and bring me your PCB then.
