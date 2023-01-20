@@ -29,19 +29,19 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
 
 ### Week 7 - [Presentation: Idea for Final (3 minutes)](week07-idea-for-final), March 20
 
-### Session 8 - [Presentation: Prototype Builds (3 minutes)](week08-prototype-builds), March 27
+### Week 8 - [Presentation: Prototype Builds (3 minutes)](week08-prototype-builds), March 27
 
-### Session 9 - [Lecture: Bantam 2](week09-bantam-2), April 3
+### Week 9 - [Lecture: Bantam 2](week09-bantam-2), April 3
 
-### Session 10 - [Presentations: Alpha Builds (8 minutes)](week10-alpha-builds), April 10
+### Week 10 - [Presentations: Alpha Builds (8 minutes)](week10-alpha-builds), April 10
 
-### Session 11 - [Lecture: Eagle Part Design](week11-eagle-part-design), April 17
+### Week 11 - [Lecture: Eagle Part Design](week11-eagle-part-design), April 17
 
-### Session 12 - [Presentations: Beta Builds (8 minutes)](week12-beta-builds), April 24
+### Week 12 - [Presentations: Beta Builds (8 minutes)](week12-beta-builds), April 24
 
-### Session 13 - In-Class Work Session, May 1
+### Week 13 - In-Class Work Session, May 1
 
-### Session 14 - Final Presentations, May 8
+### Week 14 - Final Presentations, May 8
 
 
 ## Evaluation
