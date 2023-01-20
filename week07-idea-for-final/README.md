@@ -1,5 +1,5 @@
 # Class 7
-MARCH 21
+MARCH 20
 
 ## Presentation: Idea for Final (3 minutes)
 
