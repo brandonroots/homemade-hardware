@@ -3,7 +3,7 @@
 
 It is my intent that students from diverse backgrounds and perspectives be well served by this course, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. I will gladly honor your request to address you by the name and pronoun you specify. I commit to make individual arrangements to address disabilities or religious needs; please advise me of these early in the semester so that I may make appropriate changes to my plans and records.
 
-— Daniel Shiffman (h/t to Golan Levin for the language)
+— Brandon Roots (h/t to Daniel Shiffman and Golan Levin for the language)
 
 This Code of Conduct has been adapted from the following sources:
 
