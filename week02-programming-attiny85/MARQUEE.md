@@ -34,11 +34,12 @@ What will our sign say? That is up to you. Please go to this document, and add a
 
 For example, phrases chosen for past classes were:
 
-pw is int3ract
-It Worked Before
-Microcontrol Me!
-I Dislike Pigeon
-Error Compiling!
+* pw is int3ract
+* It Worked Before
+* Microcontrol Me!
+* I Dislike Pigeon
+* Error Compiling!
+* 
 We will vote in-class on the final phrase, before you start designing your circuits in Eagle.
 
 ## Project Requirements
