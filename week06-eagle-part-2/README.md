@@ -10,7 +10,7 @@ MARCH 6
 
 ## Lecture: Rules of Electricity
 
-* [Power Supplies](https://docs.google.com/presentation/d/1TUcQLQdVAfw1bJxfSLUeIl5kNkKyK1o2oP_VYJSMO4Y/edit?usp=sharing)
+* [Power Supplies](https://docs.google.com/presentation/d/1InNUX1jkszgfbJQiX-x8_Gpv0I5jLmYxIJqArE1FGb4/edit?usp=sharing)
 
 ## Homework for next class
 
