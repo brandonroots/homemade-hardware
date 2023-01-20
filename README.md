@@ -29,7 +29,7 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
 
 ### Week 7 - [Presentation: Idea for Final (3 minutes)](week07-idea-for-final), March 20
 
-### Session 8 - [Presentation: Prototype Builds (3 minutes)](week08-prototype-builds), Mar 27
+### Session 8 - [Presentation: Prototype Builds (3 minutes)](week08-prototype-builds), March 27
 
 ### Session 9 - [Lecture: Bantam 2](week09-bantam-2), April 3
 
