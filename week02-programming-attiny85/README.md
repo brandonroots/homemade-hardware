@@ -24,5 +24,5 @@ For this workshop, each studen will need to be given:
 * Finish making your ATtiny85 programming jig.
 * Breadboard a capacitive sensor controlling multiple LEDs.
 * Post documentation of your ATtiny85 project to your class blog. Email me a link to your class blog **no later than Sunday before class**.
-* Nominate a phrase for the [Marquee Sign](https://homemadehardware.com/syllabus/assignments/marquee).
+* Nominate a phrase for the [Marquee Sign](MARQUEE.md).
 * Follow the [Eagle Setup guide](https://homemadehardware.com/guides/eagle-setup) to get a student license, download, and install. Please do this before class.
