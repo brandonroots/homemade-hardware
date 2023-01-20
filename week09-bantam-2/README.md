@@ -1,9 +1,11 @@
 # Class 9
 APRIL 3
 
-## [Lecture: Bantam 2](http://homemadehardware.com/guides/bantam-milling-2/)
+## Lecture: Bantam 2
+Following along with the [Bantam Milling 2](http://homemadehardware.com/guides/bantam-milling-2/) guide.
 
-## [Lecture: Solder Stencil](http://homemadehardware.com/guides/solder-stencil/)
+## Lecture: Solder Stencil
+Following along with the [Solder Stencil](http://homemadehardware.com/guides/solder-stencil/) guide.
 
 ## Homework for next class
 
