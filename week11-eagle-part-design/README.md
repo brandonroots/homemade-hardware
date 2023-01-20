@@ -2,6 +2,7 @@
 APRIL 17
 
 ## Lecture: Eagle Part Design
+Follow along with the [Eagle Part Design](http://homemadehardware.com/guides/eagle-part-design/) guide.
 
 ## Lecture: Designing Real-World PCBs
 
