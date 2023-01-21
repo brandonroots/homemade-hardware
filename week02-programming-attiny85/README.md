@@ -4,7 +4,7 @@ JANUARY 30
 ## Workshop: Programming ATtiny85
 Details are in the [ATtiny85 Guide](https://homemadehardware.com/guides/programming-an-attiny85/#jig).
 
-For this workshop, each studen will need to be given:
+For this workshop, each student will need to be given:
 
 * ATtiny85 (DIP)
 * 10uF capacitor
