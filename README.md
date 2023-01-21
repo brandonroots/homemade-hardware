@@ -3,13 +3,13 @@
 Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemadehardware.com)
 
 
-## Info
+## Info ℹ️
 - Brandon Roots, Mondays, 9:30am - 12:00pm
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [All class dates](https://itp.nyu.edu/help/sp23-class-dates-and-deadlines/)
 - Office Hours (use NYU google calendar appts, link via class mailing list)
 
-## Schedule
+## Schedule 📅
 
 ### Week 1 - [Workshop: SMD Lipo Charger](week01-intro), Jan 23
 
@@ -44,7 +44,7 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
 ### Week 14 - Final Presentations, May 8
 
 
-## Evaluation
+## Evaluation ✅
 * Please read [ITP's policy on pass/fail](http://help.itp.nyu.edu/academic-policies/pass-fail)
 * You are required to attend all class meetings and submit all weekly assignments and a final project.
 * Grading (pass/fail) will be based on a combination of factors:
@@ -52,10 +52,10 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
   * Marquee Project: 20%
   * Final Project: 40%
 
-## Resources
+## Resources 🔗
 
 
-## Related Reading and Watching
+## Related Reading and Watching 📚
 
 
 ## Land Acknowledgement
