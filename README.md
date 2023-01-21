@@ -54,19 +54,22 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
 
 ## Resources 🔗
 
-Component Search Engines
- * [ComponentSearchEngine.com](https://componentsearchengine.com) provides free access to schematic symbols, PCB footprints and 3D models
- * [Octopart.com](https://octopart.com) is a great search engine for vendors and current inventory of electronic parts
-Vendors
- * [Tinkersphere](http://tinkersphere.com/) is just a couple blocks from school, and is stocked perfectly for any p-comp student.
- * [Bantam Tools](https://www.bantamtools.com/) sells everything you need to mill PCBs
- * [Adafruit](http://www.adafruit.com/) creates and documents TONS of hardware projects that we can learn and borrow from. Plus, their in NYC so shipping can be quick.
- * [Sparkfun](http://www.sparkfun.com/) is similar to Adafruit, except they're in Colorado.
- * [Digikey](http://www.digikey.com/) is where we get the vast majority of our components. Huge catalog that can be confusing at first.
- * [Mouser](http://www.mouser.com/) is another component supplier like Digikey.
- * [Ebay](http://www.ebay.com/) is a great place to find parts and materials you can't find anywhere else. However, depending on where it's coming from, shipping might take a few weeks, so plan accordingly.
- * [Alibaba](http://www.alibaba.com/) is like ebay, except it's a lot of stuff from China and it's super cheap! But, once again, things can take a long time to arrive, so plan accordingly.
+* Component Search Engines
+  * [ComponentSearchEngine.com](https://componentsearchengine.com) provides free access to schematic symbols, PCB footprints and 3D models
+  * [Octopart.com](https://octopart.com) is a great search engine for vendors and current inventory of electronic parts
+* Vendors
+  * [Tinkersphere](http://tinkersphere.com/) is just a couple blocks from school, and is stocked perfectly for any p-comp student.
+  * [Bantam Tools](https://www.bantamtools.com/) sells everything you need to mill PCBs
+  * [Adafruit](http://www.adafruit.com/) creates and documents TONS of hardware projects that we can learn and borrow from. Plus, their in NYC so shipping can be quick.
+  * [Sparkfun](http://www.sparkfun.com/) is similar to Adafruit, except they're in Colorado.
+  * [Digikey](http://www.digikey.com/) is where we get the vast majority of our components. Huge catalog that can be confusing at first.
+  * [Mouser](http://www.mouser.com/) is another component supplier like Digikey.
+  * [Ebay](http://www.ebay.com/) is a great place to find parts and materials you can't find anywhere else. However, depending on where it's coming from, shipping might take a few weeks, so plan accordingly.
+  * [Alibaba](http://www.alibaba.com/) is like ebay, except it's a lot of stuff from China and it's super cheap! But, once again, things can take a long time to arrive, so plan accordingly.
 * PCB Fabrication
+  * [OSHPark.com](https://oshpark.com)
+  * [JLCPCB.com](https://jlcpcb.com)
+  * [PCBWay.com](https://www.pcbway.com)
 
 ## Related Reading and Watching 📚
 
