@@ -1,6 +1,8 @@
 # Class 1
 JANUARY 23
 
+Please fill out the class survey [here](https://forms.gle/ebmdDnuzm9DHCex3A).
+
 ## Lecture: Class Introduction
 [Link to presentation](https://docs.google.com/presentation/d/1f32TYCWYq_et4pQvCJXLT8UleyH9hcFO3CgodOamDEY/edit?usp=sharing)
 
