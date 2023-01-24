@@ -30,7 +30,7 @@ Once our PCBs are ready, we will assemble them together to spell out our phrase.
 
 ## Pick a Phrase
 
-What will our sign say? That is up to you. Please go to this document, and add an idea for a phrase. Together we will vote for the one of your ideas to be the class phrase.
+What will our sign say? That is up to you. Please go to [this document](https://docs.google.com/document/d/1C88aAiYlG1RbK7elHKDKEcYGM6VkHlNWGrHehz59ck8/edit?usp=sharing), and add an idea for a phrase. Together we will vote for the one of your ideas to be the class phrase.
 
 For example, phrases chosen for past classes were:
 
