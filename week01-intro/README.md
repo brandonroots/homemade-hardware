@@ -15,6 +15,7 @@ A full guide on assembling SMD components can be found in the [SMD Soldering gui
 * 📚 Read the following guides from the homepage:
   * [Arduino Uno: Components](https://homemadehardware.com/guides/arduino-uno-components)
   * [Arduino Uno: Programming](https://homemadehardware.com/guides/arduino-uno-programming)
+  * Extra: Look ahead at [Programming an ATtiny85](http://homemadehardware.com/guides/programming-an-attiny85/
 * 🛠️ Come to next class with the following items in hand (these are listed in the "required" [Tools/Materials](https://homemadehardware.com/things)):
   * Arduino (either Nano 33 IoT or Uno)
   * Soldering iron
