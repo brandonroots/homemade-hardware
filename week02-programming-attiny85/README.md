@@ -21,7 +21,7 @@ For this workshop, each student will need to be given:
 
 ## Homework for next class
 
-* Finish making your ATtiny85 programming jig.
+* Finish making your [ATtiny85 programming jig](https://homemadehardware.com/guides/programming-an-attiny85/#jig).
 * Breadboard a capacitive sensor controlling multiple LEDs.
 * Post documentation of your ATtiny85 project to your class blog. Email me a link to your class blog **no later than Sunday before class**.
 * Nominate a phrase for the [Marquee Sign](MARQUEE.md).
