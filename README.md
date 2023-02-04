@@ -9,6 +9,15 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
 - [All class dates](https://itp.nyu.edu/help/sp23-class-dates-and-deadlines/)
 - Office Hours (use NYU google calendar appts, link via class mailing list)
 
+## Spring 2023 Students 📝
+* An-Kai
+* Kline
+* [Carla](https://cg4057icm.myportfolio.com/homemade-hardware)
+* Yizhi
+* [Julia](https://www.juliaitp.net/homemadehardware)
+* Mathew
+* Chumou
+
 ## Schedule 📅
 
 ### Week 1 - [Workshop: SMD Lipo Charger](week01-intro), Jan 23
