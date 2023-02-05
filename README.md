@@ -10,7 +10,7 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
 - Office Hours (use NYU google calendar appts, link via class mailing list)
 
 ## Spring 2023 Students 📝
-* An-Kai
+* [An-Kai](https://itp.ankycheng.com/Homemade-Hardware-e35686e6737c4cd2b8a926bcd447b415)
 * Kline
 * [Carla](https://cg4057icm.myportfolio.com/homemade-hardware)
 * Yizhi
