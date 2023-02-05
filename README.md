@@ -16,6 +16,7 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
 * Yizhi
 * [Julia](https://www.juliaitp.net/homemadehardware)
 * Mathew
+* Changqi
 * Chumou
 
 ## Schedule 📅
