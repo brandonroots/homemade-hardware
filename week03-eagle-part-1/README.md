@@ -11,7 +11,14 @@ Following along with the [Eagle Board Design - 1 guide](https://homemadehardware
 
 ## Homework for next class
 
-* Finish the Eagle design of your [Marquee letter](../week02-programming-attiny85/MARQUEE.md) (TBD):
+* Finish the Eagle design of your [Marquee letter](../week02-programming-attiny85/MARQUEE.md):
+** An-Kai
+** Kline
+** Carla
+** Yizhi
+** Julia
+** Mathew
+** Chumou
 
 * Export a PDF of your design, and post to your blog.
 * Order all materials required for milling, from the [Things/Materials](https://homemadehardware.com/things) page. These include:
