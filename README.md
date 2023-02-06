@@ -15,7 +15,7 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
 * [Carla](https://cg4057icm.myportfolio.com/homemade-hardware)
 * Yizhi
 * [Julia](https://www.juliaitp.net/homemadehardware)
-* Mathew
+* [Mathew](https://www.virtualvector.xyz/mao-itp-blog-portal/)
 * Changqi
 * Chumou
 
