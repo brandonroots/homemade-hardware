@@ -11,8 +11,7 @@ Following along with the [Eagle Board Design - 1 guide](https://homemadehardware
 
 ## Homework for next class
 
-* Finish the Eagle design of your [Marquee letter](../week02-programming-attiny85/MARQUEE.md):
-* ε-(´・｀)ﾉ”
+* Finish the Eagle design of your [Marquee letter](../week02-programming-attiny85/MARQUEE.md) for our class marquee: ε-(´・｀)ﾉ”
   * An-Kai [´](https://www.compart.com/en/unicode/U+00B4)[・](https://www.compart.com/en/unicode/U+30FB)[｀](https://www.compart.com/en/unicode/U+FF40)
   * Kline [”](https://www.compart.com/en/unicode/U+201D)
   * Carla [(](https://www.compart.com/en/unicode/U+0028)
