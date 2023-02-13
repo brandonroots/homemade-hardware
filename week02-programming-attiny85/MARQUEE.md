@@ -52,6 +52,7 @@ There are a few things that are required of your circuit for it to pass. These a
 * use one capacitive sensor (can be anything conductive)
   * Install the [CapacitiveSensor Arduino Library](https://github.com/PaulStoffregen/CapacitiveSensor)
   * This libary allows you to turn any pin into a capactive sensor. All you need is a 1M or 10M Ohm resistor.
+  * Helpful video explainer [here](https://www.youtube.com/watch?v=jco-uU5ZgEU&t=8s). Library useage and information and examples [here](https://www.pjrc.com/teensy/td_libs_CapacitiveSensor.html).
 * have two power connectors, for both input and output
 * use only SMD parts
 * include one mounting hole (placed anywhere) that is 3.3mm in diameter
