@@ -56,3 +56,4 @@ There are a few things that are required of your circuit for it to pass. These a
 * have two power connectors, for both input and output
 * use only SMD parts
 * include one mounting hole (placed anywhere) that is 3.3mm in diameter
+* Please test these on 5 volts power! 
