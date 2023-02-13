@@ -18,5 +18,5 @@ The scour pads and solder paste can be found on the floor:
 
 ## Homework for next class
 
-* Build and finish your Marquee letter.
+* Build and finish your [Marquee letter](https://github.com/brandonroots/homemade-hardware/blob/master/week02-programming-attiny85/MARQUEE.md).
 * Bring your working and finished PCB to class, where I will test and assemble the sign.
