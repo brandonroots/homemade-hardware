@@ -3,11 +3,11 @@ FEBRUARY 6
 
 ## Lecture: Eagle Schematics
 
-Following along with the [Eagle Schematic Design - 1](https://homemadehardware.com/guides/eagle-schematic-design-1) guide.
+Follow along with the [Eagle Schematic Design - 1](https://homemadehardware.com/guides/eagle-schematic-design-1) guide.
 
 ## Lecture: Eagle Board Design
 
-Following along with the [Eagle Board Design - 1 guide](https://homemadehardware.com/guides/eagle-board-design-1). This includes the ability to import a design from Illustrator, so that you can design your board's layout in a software better suited for drawing and fonts.
+Follow along with the [Eagle Board Design - 1 guide](https://homemadehardware.com/guides/eagle-board-design-1). This includes the ability to import a design from Illustrator, so that you can design your board's layout in a software better suited for drawing and fonts.
 
 ## Homework for next class
 
