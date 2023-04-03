@@ -9,5 +9,5 @@ Follow along with the [Solder Stencil](http://homemadehardware.com/guides/solder
 
 ## Homework for next class
 
-* Finish your Alpha Build.
-* Prepare presentation for class.
+* Finish your Alpha Build. This should be a working version of your project ideally on a custom milled PCB although a breadboarded version is also acceptable. 
+* Prepare presentation for class (~10 minutes). This is all about sharing your process and does not need to be polished. 
