@@ -1,7 +1,7 @@
 # Class 10
 APRIL 10
 
-## Presentations: Alpha Builds (8 minutes)
+## Presentations: Alpha Builds (10 minutes)
 
 ## Homework for next class
 
