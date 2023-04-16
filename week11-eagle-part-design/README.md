@@ -6,7 +6,7 @@ Follow along with the [Eagle Part Design](http://homemadehardware.com/guides/eag
 
 ## Lecture: Designing Real-World PCBs
 
-* Link to presentation
+Follow along with the [Eagle Design for the Real World](http://homemadehardware.com/guides/eagle-real-world/) guide.
 
 ## Homework for next class
 
