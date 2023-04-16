@@ -1,12 +1,11 @@
 # Class 11
 APRIL 17
 
-## Lecture: Eagle Part Design
-Follow along with the [Eagle Part Design](http://homemadehardware.com/guides/eagle-part-design/) guide.
-
 ## Lecture: Designing Real-World PCBs
 
 Follow along with the [Eagle Design for the Real World](http://homemadehardware.com/guides/eagle-real-world/) guide.
+
+## Lecture: Debugging and Scopes
 
 ## Homework for next class
 
