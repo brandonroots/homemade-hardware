@@ -1,7 +1,7 @@
 # Class 12
 APRIL 24
 
-## Presentations: Beta Builds (8 minutes)
+## Presentations: Beta Builds (10 minutes)
 
 ## Homework for next class
 
