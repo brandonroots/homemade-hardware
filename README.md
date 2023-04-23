@@ -46,7 +46,7 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
 
 ### Week 11 - [Lecture: Eagle Part Design](week11-eagle-part-design), April 17
 
-### Week 12 - [Presentations: Beta Builds (8 minutes)](week12-beta-builds), April 24
+### Week 12 - [Presentations: Beta Builds (10 minutes)](week12-beta-builds), April 24
 
 ### Week 13 - In-Class Work Session, May 1
 
