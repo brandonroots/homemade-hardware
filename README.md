@@ -48,7 +48,7 @@ Syllabus for the NYU-ITP graduate course [Homemade Hardware](http://www.homemade
 
 ### Week 12 - [Presentations: Beta Builds (10 minutes)](week12-beta-builds), April 24
 
-### Week 13 - In-Class Work Session, May 1
+### Week 13 - [Lecture: Teardown, Power, and Displays](week13-teardown-power-displays), May 1
 
 ### Week 14 - Final Presentations, May 8
 
